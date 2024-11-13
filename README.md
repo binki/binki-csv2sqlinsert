@@ -1,3 +1,3 @@
-This project uses Create React App.
+Simple CSV to SQL INSERT converter.
 
-To run in development mode, run `npm start`.
+[Homepage](https://github.io/binki/binki-csv2sqlinsert/).
