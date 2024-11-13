@@ -1,3 +1,3 @@
 Simple CSV to SQL INSERT converter.
 
-[Homepage](https://github.io/binki/binki-csv2sqlinsert/).
+[Homepage](https://binki.github.io/binki-csv2sqlinsert/).
