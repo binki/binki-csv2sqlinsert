@@ -3,3 +3,6 @@
 
 test('jest runs at all', () => {
 });
+
+// This is necessary to get our file to be treated as a module by the build process
+export {};
